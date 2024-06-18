@@ -600,6 +600,7 @@ progress {
 .img-fluid {
   max-width: 100%;
   height: auto;
+  border-radius: 10px;
 }
 
 .img-thumbnail {
@@ -7025,6 +7026,8 @@ textarea.form-control-lg {
 
 .d-flex {
   display: flex !important;
+  flex-direction:  column-reverse;
+  padding-top: 25px;
 }
 
 .d-inline-flex {
