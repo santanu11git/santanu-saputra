@@ -7665,8 +7665,6 @@ textarea.form-control-lg {
 .mb-4 {
   margin-bottom: 1.5rem !important;
   flex-direction: column;
-  margin-top: 15px;
-  margin-bottom: 15px;
 }
 
 .mb-5 {
@@ -7927,6 +7925,8 @@ textarea.form-control-lg {
 .py-3 {
   padding-top: 1rem !important;
   padding-bottom: 1rem !important;
+  margin-top: 15px;
+  margin-bottom: 15px;
 }
 
 .py-4 {
